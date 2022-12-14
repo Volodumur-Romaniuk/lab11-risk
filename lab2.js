@@ -248,5 +248,5 @@ let test = {
     }
 
 }
-let umova = new Map(Object.entries(test))
+let umova = new Map(Object.entries(obj))
 calc(umova)
